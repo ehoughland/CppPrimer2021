@@ -98,7 +98,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="chapter1\ch1.cpp" />
+    <ClCompile Include="chapter1\firstProgram.cpp" />
+    <ClCompile Include="chapter1\helloWorld.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
